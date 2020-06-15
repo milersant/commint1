@@ -1,0 +1,40 @@
+@font-face {
+    font-family: "mifuente";
+    src: url('Organa-Light.eot');
+    src: local('Organa Light'), local('Organa-Light'),
+        url('Organa-Light.eot?#iefix') format('embedded-opentype'),
+        url('Organa-Light.woff2') format('woff2'),
+        url('Organa-Light.woff') format('woff'),
+        url('Organa-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Organa';
+    src: url('Organa.eot');
+    src: local('Organa'),
+        url('Organa.eot?#iefix') format('embedded-opentype'),
+        url('Organa.woff2') format('woff2'),
+        url('Organa.woff') format('woff'),
+        url('Organa.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Organa';
+    src: url('Organa-Bold.eot');
+    src: local('Organa Bold'), local('Organa-Bold'),
+        url('Organa-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Organa-Bold.woff2') format('woff2'),
+        url('Organa-Bold.woff') format('woff'),
+        url('Organa-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+.miler{
+    font-family: 'mifuente';
+    text-shadow: ;
+}

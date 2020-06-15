@@ -1,0 +1,33 @@
+@font-face {
+    font-family: "mifuente";
+    src: url('Organa-Light.eot');
+    src: local('Organa Light'), local('Organa-Light'),
+        url('Organa-Light.eot?#iefix') format('embedded-opentype'),
+        url('Organa-Light.woff2') format('woff2'),
+        url('Organa-Light.woff') format('woff'),
+        url('Organa-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "mifuente2";
+    src: url('Organa-Light.eot');
+    src: local('Organa Light'),
+    
+}
+.miler{
+    font-family: "mifuente";
+}
+.miler1{
+    color: rgb(52, 89, 211);
+    font-family: 'Questrial' sans-serif;
+    text-shadow: 5px 5px 5px rgb(70, 70, 70);
+}
+.miler2{
+font-family: 'Dancing Script', cursive;
+}
+.p1{
+    font-family: "mifuente2";
+    text-shadow: 3px 5px 4px blue;
+}
